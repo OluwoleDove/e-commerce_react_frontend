@@ -64,7 +64,7 @@ function App() {
               </Button>
 
               <LinkContainer to="/">
-                <Navbar.Brand>equest</Navbar.Brand>
+                <Navbar.Brand>Fashlinks</Navbar.Brand>
               </LinkContainer>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
